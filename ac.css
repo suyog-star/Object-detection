@@ -1,0 +1,15 @@
+#status,#objects {
+    font-size: 20px;
+
+}
+
+canvas {
+    border: 2px solid snow;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px cyan;
+    margin-top: 100px;
+}
+
+body {
+    background-size:cover;
+}
